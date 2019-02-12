@@ -1,6 +1,11 @@
 import os
 import random
-
+'''
+	How to use this python script:
+		add this .py file and data.txt in same directory and change the directory in the script as per your computer and set back and see the magic
+		answer in the papers are from https://state.1keydata.com/state-capitals.php
+		Happy coding :)
+'''
 filename='data.txt'
 # create 35 questions papers and 35 answer sheets, each paper containing 50 MCQ
 states=[]
