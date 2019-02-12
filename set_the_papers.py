@@ -2,7 +2,7 @@ import os
 import random
 '''
 	How to use this python script:
-		add this .py file and data.txt in same directory and change the directory in the script as per your computer and set back and see the magic
+		add this .py file and data.txt (this contain a state and its capital,a state and its capital and next line and so on ) in same directory and change the directory in the script as per your computer and set back and see the magic
 		answer in the papers are from https://state.1keydata.com/state-capitals.php
 		Happy coding :)
 '''
