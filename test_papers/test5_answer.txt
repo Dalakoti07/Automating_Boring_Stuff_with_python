@@ -1,0 +1,100 @@
+answer for 1 question is Salem
+
+answer for 2 question is Montgomery
+
+answer for 3 question is Topeka
+
+answer for 4 question is Hartford
+
+answer for 5 question is Des Moines
+
+answer for 6 question is Indianapolis
+
+answer for 7 question is Richmond
+
+answer for 8 question is Lincoln
+
+answer for 9 question is Austin
+
+answer for 10 question is Oklahoma City
+
+answer for 11 question is Concord
+
+answer for 12 question is Jefferson City
+
+answer for 13 question is Atlanta
+
+answer for 14 question is Albany
+
+answer for 15 question is Helena
+
+answer for 16 question is Sacramento
+
+answer for 17 question is Boise
+
+answer for 18 question is Montpelier
+
+answer for 19 question is Boston
+
+answer for 20 question is Columbia
+
+answer for 21 question is St. Paul
+
+answer for 22 question is Pierre
+
+answer for 23 question is Dover
+
+answer for 24 question is Cheyenne
+
+answer for 25 question is Salt Lake City
+
+answer for 26 question is Augusta
+
+answer for 27 question is Nashville
+
+answer for 28 question is Bismarck
+
+answer for 29 question is Little Rock
+
+answer for 30 question is Raleigh
+
+answer for 31 question is Trenton
+
+answer for 32 question is Springfield
+
+answer for 33 question is Providence
+
+answer for 34 question is Santa Fe
+
+answer for 35 question is Phoenix
+
+answer for 36 question is Baton Rouge
+
+answer for 37 question is Denver
+
+answer for 38 question is Honolulu
+
+answer for 39 question is Juneau
+
+answer for 40 question is Frankfort
+
+answer for 41 question is Lansing
+
+answer for 42 question is Harrisburg
+
+answer for 43 question is Tallahassee
+
+answer for 44 question is Columbus
+
+answer for 45 question is Annapolis
+
+answer for 46 question is Madison
+
+answer for 47 question is Carson City
+
+answer for 48 question is Charleston
+
+answer for 49 question is Olympia
+
+answer for 50 question is Jackson
+

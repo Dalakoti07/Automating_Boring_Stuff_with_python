@@ -1,0 +1,200 @@
+
+Question number 1
+What is the capital of Maryland
+option1 Annapolis	option2 Austin	option3 Salt Lake City	option4 St. Paul	
+
+Question number 2
+What is the capital of Montana
+option1 Oklahoma City	option2 Helena	option3 Lansing	option4 Hartford	
+
+Question number 3
+What is the capital of North Carolina
+option1 Bismarck	option2 Raleigh	option3 Jefferson City	option4 Springfield	
+
+Question number 4
+What is the capital of Utah
+option1 Topeka	option2 Richmond	option3 Salt Lake City	option4 Olympia	
+
+Question number 5
+What is the capital of Hawaii
+option1 Lincoln	option2 Little Rock	option3 Honolulu	option4 Oklahoma City	
+
+Question number 6
+What is the capital of Florida
+option1 Santa Fe	option2 Des Moines	option3 Tallahassee	option4 Pierre	
+
+Question number 7
+What is the capital of Colorado
+option1 Baton Rouge	option2 Santa Fe	option3 Denver	option4 Jackson	
+
+Question number 8
+What is the capital of California
+option1 Concord	option2 Pierre	option3 Atlanta	option4 Sacramento	
+
+Question number 9
+What is the capital of Kansas
+option1 Annapolis	option2 Carson City	option3 Dover	option4 Topeka	
+
+Question number 10
+What is the capital of Maine
+option1 Charleston	option2 Augusta	option3 Atlanta	option4 Harrisburg	
+
+Question number 11
+What is the capital of New Hampshire
+option1 Denver	option2 Concord	option3 Annapolis	option4 Juneau	
+
+Question number 12
+What is the capital of Arizona
+option1 Indianapolis	option2 Lincoln	option3 Phoenix	option4 Columbia	
+
+Question number 13
+What is the capital of Oregon
+option1 Salem	option2 Olympia	option3 Austin	option4 Nashville	
+
+Question number 14
+What is the capital of New Mexico
+option1 Baton Rouge	option2 Santa Fe	option3 Trenton	option4 Sacramento	
+
+Question number 15
+What is the capital of Ohio
+option1 Trenton	option2 Denver	option3 Columbus	option4 Baton Rouge	
+
+Question number 16
+What is the capital of North Dakota
+option1 Bismarck	option2 Providence	option3 Boise	option4 Baton Rouge	
+
+Question number 17
+What is the capital of Missouri
+option1 Harrisburg	option2 Augusta	option3 Springfield	option4 Jefferson City	
+
+Question number 18
+What is the capital of Pennsylvania
+option1 Richmond	option2 Harrisburg	option3 Santa Fe	option4 Helena	
+
+Question number 19
+What is the capital of Tennessee
+option1 Austin	option2 Austin	option3 Nashville	option4 Santa Fe	
+
+Question number 20
+What is the capital of New York
+option1 Montpelier	option2 Olympia	option3 Indianapolis	option4 Albany	
+
+Question number 21
+What is the capital of Nevada
+option1 Springfield	option2 Charleston	option3 Carson City	option4 Columbia	
+
+Question number 22
+What is the capital of South Dakota
+option1 Harrisburg	option2 Montpelier	option3 Pierre	option4 Lansing	
+
+Question number 23
+What is the capital of Alaska
+option1 Providence	option2 Little Rock	option3 Boston	option4 Juneau	
+
+Question number 24
+What is the capital of Idaho
+option1 Austin	option2 Boise	option3 Raleigh	option4 Lincoln	
+
+Question number 25
+What is the capital of Arkansas
+option1 Little Rock	option2 Montgomery	option3 Helena	option4 Juneau	
+
+Question number 26
+What is the capital of Vermont
+option1 Honolulu	option2 Concord	option3 Montgomery	option4 Montpelier	
+
+Question number 27
+What is the capital of Texas
+option1 Raleigh	option2 Jackson	option3 Austin	option4 Honolulu	
+
+Question number 28
+What is the capital of Mississippi
+option1 Concord	option2 Salem	option3 Montpelier	option4 Jackson	
+
+Question number 29
+What is the capital of Kentucky
+option1 Hartford	option2 Frankfort	option3 Helena	option4 Madison	
+
+Question number 30
+What is the capital of Connecticut
+option1 Hartford	option2 Indianapolis	option3 Atlanta	option4 Indianapolis	
+
+Question number 31
+What is the capital of Illinois
+option1 Hartford	option2 Pierre	option3 Providence	option4 Springfield	
+
+Question number 32
+What is the capital of New Jersey
+option1 Santa Fe	option2 Cheyenne	option3 Albany	option4 Trenton	
+
+Question number 33
+What is the capital of Alabama
+option1 Jefferson City	option2 Montgomery	option3 Concord	option4 Indianapolis	
+
+Question number 34
+What is the capital of Louisiana
+option1 Baton Rouge	option2 Salt Lake City	option3 Olympia	option4 Honolulu	
+
+Question number 35
+What is the capital of Minnesota
+option1 Harrisburg	option2 Providence	option3 St. Paul	option4 Indianapolis	
+
+Question number 36
+What is the capital of West Virginia
+option1 Jefferson City	option2 Albany	option3 Denver	option4 Charleston	
+
+Question number 37
+What is the capital of Wyoming
+option1 Richmond	option2 Cheyenne	option3 Santa Fe	option4 Lansing	
+
+Question number 38
+What is the capital of Indiana
+option1 Bismarck	option2 Indianapolis	option3 Nashville	option4 Santa Fe	
+
+Question number 39
+What is the capital of South Carolina
+option1 Jackson	option2 Columbia	option3 Helena	option4 Sacramento	
+
+Question number 40
+What is the capital of Wisconsin
+option1 Madison	option2 Columbia	option3 Annapolis	option4 Montgomery	
+
+Question number 41
+What is the capital of Virginia
+option1 Columbia	option2 Baton Rouge	option3 Providence	option4 Richmond	
+
+Question number 42
+What is the capital of Nebraska
+option1 Harrisburg	option2 Lincoln	option3 Jackson	option4 Providence	
+
+Question number 43
+What is the capital of Michigan
+option1 Denver	option2 Lansing	option3 Baton Rouge	option4 Denver	
+
+Question number 44
+What is the capital of Rhode Island
+option1 Nashville	option2 Columbia	option3 Salem	option4 Providence	
+
+Question number 45
+What is the capital of Delaware
+option1 Concord	option2 Dover	option3 Raleigh	option4 Phoenix	
+
+Question number 46
+What is the capital of Washington
+option1 Richmond	option2 Topeka	option3 Olympia	option4 Oklahoma City	
+
+Question number 47
+What is the capital of Oklahoma
+option1 Boston	option2 Springfield	option3 Oklahoma City	option4 Denver	
+
+Question number 48
+What is the capital of Massachusetts
+option1 Phoenix	option2 Oklahoma City	option3 Des Moines	option4 Boston	
+
+Question number 49
+What is the capital of Georgia
+option1 Cheyenne	option2 Dover	option3 Jackson	option4 Atlanta	
+
+Question number 50
+What is the capital of Iowa
+option1 Des Moines	option2 Columbus	option3 Charleston	option4 Columbia	
