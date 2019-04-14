@@ -1,9 +1,9 @@
 All the problems are inspired from Python Book- "Automating the Boring Stuff with Python"# Automating_Boring_Stuff_with_python
 
-Problem 1
+Password Strength
 Calculate the password strength by the help of regex
 
-Problem 2
+Test Setter
 Automating Boring stuff page number 186 
 Say you’re a geography teacher with 35 students in your class and you want
 to give a pop quiz on US state capitals. Alas, your class has a few bad eggs in
@@ -22,7 +22,11 @@ question, in random order.
 
 •	 Writes the answer keys to 35 text files.
 
-Problem 3
-Make a directory explorer such that it find all the unnecessary extension in the given directory and delete them
+Download Images
+Provide image and all the images would be downloaded
 
-Problem 4
+RegFinder
+Provide a pattern and we would be finding all the machings of that pattern in all the current working directory's txt files
+
+ScrapGoogleSearch
+Provide a search command then, all the tops 5 links would be opened in the google chrome 
