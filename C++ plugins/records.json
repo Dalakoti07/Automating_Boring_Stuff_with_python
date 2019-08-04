@@ -1,0 +1,8 @@
+{
+	"type1": {
+		"files": ".cpp",
+		"sampleDir": "C:\\Users\\saurabh\\Desktop\\Blasteroid\\automating_boring_stuff_with_python\\C++ plugins\test.cpp", 
+		"targetDir": "C:\\Users\\saurabh\\Desktop\\Blasteroid\\Competitive Programming\\Coding Ninjas\\Dynamic Programming", 
+		"FilesAlreadInDir": ["adjacentBitCount.cpp", "alnoyaAndSpreadSheet.cpp", "balikaVadhu.cpp", "boredom.cpp", "charlieAndPilots.cpp", "coinChangeProblem.cpp", "countBST.cpp", "distinctSubsequence.cpp", "editDistance.cpp", "hasanAndTrip.cpp", "JohnSnow.cpp", "knapsnack.cpp", "lcs.cpp", "lootHouses.cpp", "magicGrid.cpp", "maximumSquareMatrix.cpp", "maximumSumRectangle.cpp", "minimumCount.cpp", "minNumberOfChocolates.cpp", "miserMan.cpp", "partyProblem.cpp", "royAndCoinBox.cpp", "smallestSuperSequence.cpp", "squareBracket.cpp", "stairCase.cpp", "subsetSum.cpp", "traderProfit.cpp", "vanyaAndGCD.cpp"]
+	}
+}
